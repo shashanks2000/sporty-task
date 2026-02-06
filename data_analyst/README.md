@@ -1,4 +1,4 @@
-# Data Analyst Take Home Test
+# Data Analyst Take
 
 ## Task
 
