@@ -1,4 +1,4 @@
-# Data Analyst Take
+# Data Analyst
 
 ## Task
 
